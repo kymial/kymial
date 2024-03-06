@@ -7,5 +7,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kymial&repo=AWS)](https://github.com/kymial/AWS)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kymial)](https://github.com/kymial)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kymial)](https://github.com/kymial)
