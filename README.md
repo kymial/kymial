@@ -12,3 +12,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kymial&theme=ambient_gradient&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kymial)](https://github.com/kymial/github-readme-stats)
