@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=끝인없이%20발전하는%20개발자%20정영종입니다!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=끝인없이%20발전하는%20개발자%20정영종입니다!&fontSize=90)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=Rect&color=87cefa&height=100&section=footer)
