@@ -9,3 +9,6 @@
   - **버전 관리**: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   - **클라우드 서비스**: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   - **기타**: PC 수리, 네트워크
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juh200@naver.com&theme=dark&show_icons=true)
